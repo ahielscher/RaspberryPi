@@ -10,6 +10,7 @@ Material:
 - Camera v2.1
 
 --------------------------
+Version 1:
 
 Als Grundfunktion gelten:
   - Eine durch das Drücken des Buttons ausgelöste Aktion.
@@ -39,3 +40,6 @@ ________________________
       (https://bc-robotics.com/tutorials/sending-email-attached-photo-using-python-raspberry-pi/)
       
 ___________________________
+Version 2:
+
+Gleich wie die Version 1, hier wurde aber mit sich verändernden Bildnamen und Bilder speichern gearbeitet. Es wurde versucht "schön" zu programmieren, indem ein Dokument das Foto bei Knopfdruck aufnimmt, überprüft, ob es den Namen schon gibt, und dann abspeichert. Auch das Mailverschicken wurde als einzelnes Dokument ausgeführt, wobei sich jedoch das Prblem stellte, dass für den Anhang das schon geschossene Bild benötigt wird. Beide Funktionen wurden in einem 'Ablauf'- Dokument zusammengeführt. Die 
