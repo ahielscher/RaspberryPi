@@ -1,9 +1,15 @@
 # RaspberryPi
 Bei Drücken eines Buttons wird ein Foto gemacht, welches per Mail verschickt wird.
-
 Das Projekt wurde in Grundanforderung und Erweiterungen gegliedert.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------
+
+Material:
+- RaspberryPi
+- Button v1.2
+- Camera v2.1
+
+--------------------------
 
 Als Grundfunktion gelten:
   - Eine durch das Drücken des Buttons ausgelöste Aktion.
